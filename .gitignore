@@ -1,0 +1,22 @@
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores / IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Ficheiros temporários e logs
+*.tmp
+*.log
+*.bak
+
+# Credenciais (nunca enviar para o GitHub)
+.env
+.git-credentials
+*.pem
+*.key
